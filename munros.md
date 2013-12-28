@@ -1,0 +1,55 @@
+# Munros:
+
+1994-08-22 Ben Chonzie, w' Dad, Grandad
+1995-08-04 Meal Glas
+1995-08-04 Sgiath Chuil
+1997-06-14 Ben More
+1997-06-14 Stob Binnein
+1997-07-30 Beinn Dearg 
+1998-05-02 Mayar
+1998-05-02 Driesh 
+1998-05-17 The Cairnwell
+1998-05-17 Carn Aosda
+1998-05-17 Carn a' Gheodh 
+1998-06-29 Toll Creagach
+1998-06-29 Tom a' Choinich 
+1998-07-06 Sgairneach Mhor
+1998-07-09 Beinn Udlamain 
+1998-09-22 Meall Ghaordaidh
+1998-09-26 Beinn a Chochuill
+1998-09-26 Beinn Eunaich 
+1999-05-01 Meall Corrainaich
+1999-05-01 Meall a' Choire Leith  
+1999-07-28 Meall Buidhe
+1999-08-21 Mount Keen 
+1999-07-?? Carn a' Chlamain
+2000-07-13 Buachaille Etive Beag
+2000-07-13 Stob Coire Raineach 
+2001-01-02 Beinn Achaladair
+2001-01-02 Beinn a' Chreachain
+2002-02-23 Meal a Bhuiridh
+2002-03-04 Stob a' Choire Odhair
+2002-04-12 A' Chailleach  
+2002-08-15 Buachaille Etive Mor
+2002-09-16 Ben Cruachan
+2002-09-16 Stob Diamh
+2003-04-09 Stob Coire Sgriodain 
+2004-04-07 Gleouraich 
+2004-04-07 Spidean Mialach
+2004-08-21 Creag a' Mhaim
+2004-08-21 Druim Shionnach
+2004-08-21 Aonach air Chrith
+2004-08-21 Maol Chinn Dearg
+2004-08-21 Sgurr an Doire Leathain
+2004-08-21 Sgurr am Lochain
+2004-08-21 Creag nan Damh 
+2005-01-05 Aonach Mor
+2005-05-31 Ben Vorlich
+2005-05-31 Stuc a Chroin
+
+2005-?-? Sgurr Alasdair (St. Andrews mountaineering over ski break)
+2005-?-? Sgurr a Ghreadaidh (St. Andrews mountaineering over ski break)
+
+2012-09-05 Sgorr Dhearg, w' Colette
+
+
