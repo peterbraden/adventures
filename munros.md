@@ -46,10 +46,8 @@
 2005-01-05 Aonach Mor
 2005-05-31 Ben Vorlich
 2005-05-31 Stuc a Chroin
-
 2005-?-? Sgurr Alasdair (St. Andrews mountaineering over ski break)
 2005-?-? Sgurr a Ghreadaidh (St. Andrews mountaineering over ski break)
-
 2012-09-05 Sgorr Dhearg, w' Colette
 
 
