@@ -49,3 +49,4 @@
 - 2005-?-? Sgurr Alasdair (St. Andrews mountaineering over ski break)
 - 2005-?-? Sgurr a Ghreadaidh (St. Andrews mountaineering over ski break)
 - 2012-09-05 Sgorr Dhearg, w' Colette
+- 2014-08-22  Ben Lui, Beinn a'Chleibh, w' Dad
