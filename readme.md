@@ -10,9 +10,9 @@
 
 
 ## Lists
-- [Highest Peaks](./peaks.md)
-- [Rock Climbing](./climbing.md)
-- [Snow](./snow.md)
+- [Highest Peaks](./lists/peaks.md)
+- [Rock Climbing](./lists/climbing.md)
+- [Snow](./lists/snow.md)
 
 
 ## Ongoing Projects
