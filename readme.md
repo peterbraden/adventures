@@ -1,9 +1,10 @@
-# Climbing Things
+# Adventures
 
-I like to climb things. Mountains, rocks, trees. Here are lists of some of the notable things I've climbed.
 
-If you would like to join me on a climb then please let me know! A rough list of trip plans is [here](./plans.md)
+## Lists
+- [Highest Peaks](./peaks.md)
+- [Rock Climbing](./climbing.md)
 
-- [peaks](./peaks.md)
-- [rock-climbing](./climbing.md)
-- [munros - Scottish Mtns over 3000ft](./munros.md)
+
+## Projects
+- [Munros - Scottish Mtns over 3000ft](./projects/munros.md)
