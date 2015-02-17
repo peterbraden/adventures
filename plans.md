@@ -1,4 +1,11 @@
-# 2014
+# 2015
+
+
+
+
+# Sometime
+- Shasta
+- Rainier
 
 ### Royal Arches, Yosemite - May 10?
   [https://www.facebook.com/events/686639131367982/]
@@ -12,11 +19,3 @@ Sometime this summer
 ### White Mountain
 The easiest 14er :). Some weekend in summer with camping in the white mtns
 
-
-
-# 2015
-- Aconcagua
-
-# Sometime
-- Shasta
-- Rainier
