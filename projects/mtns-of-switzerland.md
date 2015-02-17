@@ -15,7 +15,7 @@ Summits of Switzerland with more than 300m prominence.
 - Bürgenstock [1128, #436]
   - 2014-08-10: w' Frederik, Christian, Ine, Maria
 
-- #399. Rigi Kulm [1798m]
+- Rigi Kulm [1798m, #399]
   - 2014-05-10: train down
 
 - Pfannenstiel [853m]:
