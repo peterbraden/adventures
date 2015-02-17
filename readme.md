@@ -12,6 +12,7 @@
 ## Lists
 - [Highest Peaks](./peaks.md)
 - [Rock Climbing](./climbing.md)
+- [Snow](./snow.md)
 
 
 ## Ongoing Projects
