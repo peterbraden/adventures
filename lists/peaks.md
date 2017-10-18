@@ -17,4 +17,11 @@
   - walk from carpark… : 2012-11-0
 - **Grand Pic de Belledonne** 2,977m / 9,767ft:
   - 2007-06
-
+ 
+ 
+ 
+# Other Alpine Climbs
+- Cosmique Aréte (AD, 4a) [guided] w' Jacob
+- Cheré couloir (II D+) [guided] w' Jacob
+- Mont Fort, Backside, snowboard descent, 2015-02-07 w' Christian Falk.
+- 2015-02-06: Stairway to Heaven (Verbier) - boot up and snowboard down. w' Christian Falk.
